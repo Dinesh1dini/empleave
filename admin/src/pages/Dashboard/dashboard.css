@@ -1,0 +1,19 @@
+.container {
+    display: flex; /* This sets the container to use flexbox */
+
+  }
+  
+  .item {
+    flex: 1; /* This makes the items grow and shrink equally */
+  margin: 10px; /* Add some margin for spacing */
+  padding: 10px; /* Add padding for better visibility */
+  border: 1px solid #ccc; /* Add a border for visualization */
+  width: 300px;
+  height: auto;
+  background-color: rgb(13, 95, 95);
+  text-align: center;
+  font-size: medium;
+  color: aliceblue;
+ 
+ }
+  
